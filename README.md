@@ -24,4 +24,5 @@ setup:
 blender development extension 
 
 progress:
-- used blender mcp to learn as i go, not watching any youtube tutorials (lost my headphones...) 
+- used blender mcp to learn as i go, not watching any youtube tutorials (lost my headphones...)
+- made a snowman..small progress..kept getting distracted
