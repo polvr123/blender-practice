@@ -20,5 +20,8 @@ go to location > set Z to 3 m and leave x, y at 0
 
 few clicks is probably faster...but the menu is extensive and confusing (and i am lazy..) 
 
+setup: 
+blender development extension 
+
 progress:
 - used blender mcp to learn as i go, not watching any youtube tutorials (lost my headphones...) 
