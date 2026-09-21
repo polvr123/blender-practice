@@ -1,9 +1,9 @@
 # blender-practice
 # learning blender (scripting focused) and having fun meow meow meow 
 
-sept 21, 2026
+**sept 21, 2026**
 
-motivations: 
+motivations:
 
 blender is very powerful and cool! there are a LOT of menu items, so it's inefficient to have to learn the ins and outs of an overwhelming software for simpler graphics when the entire interface is built on the python api
 
