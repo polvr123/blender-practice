@@ -1,5 +1,5 @@
 # blender-practice
-# learning blender (scripting focused) and having fun meow meow meow 
+# learning blender (scripting focused) and having fun 
 
 **sept 21, 2026**
 
